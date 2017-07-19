@@ -24,4 +24,5 @@ I've also tried the contours and feature matching in openCV library. But it turn
 Even though cascade seem to do the same trick as my convolutional network, my main goal in this project is to practice and integrate my Neural network with openCV. So I still applied the Neural network to the region selected by cascade. At least, Neural network is able to give us the accuracy of the image.
 
 There's a lot to be improved, but more like the number of training epoch, number of classifications. Thus, I'm just leaving it like this, but perhaps optimize it when I have free time.
+(final demo accuracy was blocked by my terminal...but accuracy was shown on the screen of terminal ^ ^)
 ![4 pic](https://user-images.githubusercontent.com/13871858/28357341-eec8a8a8-6c1f-11e7-8b03-d641b43ff5d7.jpg)
